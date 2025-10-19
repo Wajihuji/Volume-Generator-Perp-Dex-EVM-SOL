@@ -28,3 +28,17 @@ https://t.me/penta_vi
 - Ethereum wallet for payment processing
 
 https://t.me/penta_vi
+
+## Example Bot Images
+
+![Enclave Bot](https://raw.githubusercontent.com/Wajihuji/Volume-Generator-Perp-Dex-EVM-SOL-/main/Enclave_Bot.png)
+
+![Extended Bot](https://raw.githubusercontent.com/Wajihuji/Volume-Generator-Perp-Dex-EVM-SOL-/main/Extended_Bot.png)
+
+![Hibachi Bot](https://raw.githubusercontent.com/Wajihuji/Volume-Generator-Perp-Dex-EVM-SOL-/main/Hibachi_Bot.png)
+
+![Pacifica Bot](https://raw.githubusercontent.com/Wajihuji/Volume-Generator-Perp-Dex-EVM-SOL-/main/Pacifica_Bot.png)
+
+![Reya Bot](https://raw.githubusercontent.com/Wajihuji/Volume-Generator-Perp-Dex-EVM-SOL-/main/REYA_Bot.png)
+
+![Vest Bot](https://raw.githubusercontent.com/Wajihuji/Volume-Generator-Perp-Dex-EVM-SOL-/main/VEST_Bot.png)
