@@ -3,7 +3,7 @@ This repository contains a sophisticated trading bot that supports multiple trad
 
 ## Pricing Options
 - **Bundle Purchase**: All trading pairs for 1 ETH (includes full source code)
-- **Individual Pair**: 0.3 ETH per trading pair (includes corresponding source code)
+- **Individual Exchange**: 0.3 ETH per trading pair (includes corresponding source code)
 
 ## Features
 - Telegram notification integration
